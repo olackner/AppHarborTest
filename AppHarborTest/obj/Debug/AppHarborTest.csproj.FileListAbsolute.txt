@@ -1,0 +1,7 @@
+C:\gits\AppHarborTest\AppHarborTest\bin\AppHarborTest.dll
+C:\gits\AppHarborTest\AppHarborTest\bin\AppHarborTest.pdb
+C:\gits\AppHarborTest\AppHarborTest\bin\EntityFramework.dll
+C:\gits\AppHarborTest\AppHarborTest\bin\EntityFramework.xml
+C:\gits\AppHarborTest\AppHarborTest\obj\Debug\ResolveAssemblyReference.cache
+C:\gits\AppHarborTest\AppHarborTest\obj\Debug\AppHarborTest.dll
+C:\gits\AppHarborTest\AppHarborTest\obj\Debug\AppHarborTest.pdb
